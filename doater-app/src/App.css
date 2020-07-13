@@ -1,0 +1,25 @@
+.app {
+  font-family: 'Roboto Mono', monospace;
+  width: 100vw;
+  height: 100vh;
+}
+
+.navbar {
+  width: 100vw;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkseagreen;
+}
+
+.navbar-title {
+  font-size: 3rem;
+  color: antiquewhite;
+}
+
+.music-player-container {
+  width: 50vw;
+  height: 80vh;
+  outline: auto;
+}
